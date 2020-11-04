@@ -7,8 +7,8 @@ Note: The code comments and the user interface are in *Spanish*, translation is 
 ![vis](assets/imgs/samples.png)
 
 ## Requirements
-- java 14.0.2
-- javac 14.0.2
+- java 14
+- javac 14
 - Optional: Shell if you want to run the run.sh script.
 
 ## Instructions
