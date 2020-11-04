@@ -20,12 +20,12 @@ Note: The code comments and the user interface are in *Spanish*, translation is 
   1. OR: You can just run the JAR file: java -jar jar/UI.jar
 6. You should see the user interface of the software (something similar to the following figure)
 
-![UI](assets/imgs/ui.png)
+![UI](assets/imgs/UI.png)
 
 ## Demo
 1. Open the software
 
-![UIinit](assets/imgs/ui.png)
+![UIinit](assets/imgs/UI.png)
 
 2. Insert the number of sides (e.g. 4) and click the "Construir piramide" button:
 
